@@ -2,6 +2,8 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
+**版本：** 0.1.0
+
 一个适用于 OpenClaw 的轻量 Auto Dream 技能。
 
 `Auto Dream Light` 面向已经拥有自己 `MEMORY.md` 与 `memory/` 工作流的 OpenClaw 实例。

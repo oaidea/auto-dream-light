@@ -1,5 +1,6 @@
 ---
 name: auto-dream-light
+version: 0.1.0
 description: Lightweight, memory-safe Auto Dream workflow for OpenClaw that adapts to an existing memory system instead of replacing it. Use when users want periodic or on-demand memory consolidation, dream logs, or a gradual path from manual memory cleanup to semi-automatic consolidation without forcing a new memory architecture.
 ---
 

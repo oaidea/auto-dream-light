@@ -2,6 +2,8 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
+**Version:** 0.1.0
+
 A lightweight Auto Dream skill for OpenClaw that adapts to an existing memory system instead of replacing it.
 
 `Auto Dream Light` is designed for OpenClaw instances that already have their own `MEMORY.md` and `memory/` workflow.
